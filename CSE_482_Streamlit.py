@@ -39,7 +39,7 @@ make predictions on new plays.
 )
 
 # ------------------------------------------------------------
-# GITHUB DATA CONFIG (YOU MUST EDIT THIS)
+# GITHUB DATA CONFIG
 # ------------------------------------------------------------
 st.sidebar.header("Data Source")
 
@@ -154,7 +154,7 @@ default_feature_candidates = [
 
 default_features = [c for c in default_feature_candidates if c in df.columns]
 
-# Some common targets you might care about:
+
 suggested_classification_targets = [
     c
     for c in [
