@@ -419,6 +419,12 @@ if mode == "Single play (form)":
 
         if task_type == "Classification":
             st.write(f"**Predicted {target_col}:** {pred}")
+            # Human-friendly explanation
+            if pred == 1 or pred == 1.0:
+                st.info(f"A predicted value of **1** means the event `{target_col}` is expected to occur.")
+            else:
+                st.info(f"A predicted value of **0** means the event `{target_col}` is predicted **not** to occur.")
+
             # Try to show probability if available
             if hasattr(model, "predict_proba"):
                 proba = model.predict_proba(X_new)[0]
