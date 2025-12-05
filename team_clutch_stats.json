@@ -1,0 +1,898 @@
+{
+  "ARI_2019": {
+    "clutch_plays_count": 73,
+    "clutch_epa_avg": -0.23847457157484353,
+    "clutch_wpa_avg": -0.002383775083190709,
+    "clutch_success_rate": 0.3287671232876712,
+    "wins": 5
+  },
+  "ARI_2020": {
+    "clutch_plays_count": 59,
+    "clutch_epa_avg": -0.18830311258477656,
+    "clutch_wpa_avg": 0.000206143279486308,
+    "clutch_success_rate": 0.423728813559322,
+    "wins": 8
+  },
+  "ARI_2021": {
+    "clutch_plays_count": 44,
+    "clutch_epa_avg": 0.034188741429137165,
+    "clutch_wpa_avg": -0.005716924639923241,
+    "clutch_success_rate": 0.4318181818181818,
+    "wins": 11
+  },
+  "ARI_2023": {
+    "clutch_plays_count": 79,
+    "clutch_epa_avg": -0.14609763211942972,
+    "clutch_wpa_avg": -0.004449433918240724,
+    "clutch_success_rate": 0.3670886075949367,
+    "wins": 4
+  },
+  "ATL_2019": {
+    "clutch_plays_count": 51,
+    "clutch_epa_avg": 0.277157699975249,
+    "clutch_wpa_avg": 0.017576166191033863,
+    "clutch_success_rate": 0.5294117647058824,
+    "wins": 7
+  },
+  "ATL_2020": {
+    "clutch_plays_count": 75,
+    "clutch_epa_avg": -0.18232068614684127,
+    "clutch_wpa_avg": -0.01704757869243623,
+    "clutch_success_rate": 0.41333333333333333,
+    "wins": 4
+  },
+  "ATL_2021": {
+    "clutch_plays_count": 69,
+    "clutch_epa_avg": 0.036152303803603285,
+    "clutch_wpa_avg": 0.016689030492868535,
+    "clutch_success_rate": 0.42028985507246375,
+    "wins": 7
+  },
+  "ATL_2023": {
+    "clutch_plays_count": 88,
+    "clutch_epa_avg": 0.07395280191715281,
+    "clutch_wpa_avg": 0.011164883344178223,
+    "clutch_success_rate": 0.4659090909090909,
+    "wins": 7
+  },
+  "BAL_2019": {
+    "clutch_plays_count": 35,
+    "clutch_epa_avg": 0.1669099966542262,
+    "clutch_wpa_avg": 0.016377686801126983,
+    "clutch_success_rate": 0.45714285714285713,
+    "wins": 14
+  },
+  "BAL_2020": {
+    "clutch_plays_count": 61,
+    "clutch_epa_avg": 0.13901617739218988,
+    "clutch_wpa_avg": 0.004018800114704202,
+    "clutch_success_rate": 0.47540983606557374,
+    "wins": 12
+  },
+  "BAL_2021": {
+    "clutch_plays_count": 119,
+    "clutch_epa_avg": 0.2325991934282845,
+    "clutch_wpa_avg": 0.009434688839170612,
+    "clutch_success_rate": 0.5126050420168067,
+    "wins": 8
+  },
+  "BAL_2023": {
+    "clutch_plays_count": 66,
+    "clutch_epa_avg": -0.11495212319277734,
+    "clutch_wpa_avg": -0.008592896168791704,
+    "clutch_success_rate": 0.4090909090909091,
+    "wins": 14
+  },
+  "BUF_2019": {
+    "clutch_plays_count": 99,
+    "clutch_epa_avg": 0.13785611081256827,
+    "clutch_wpa_avg": -0.0017946194850128481,
+    "clutch_success_rate": 0.42424242424242425,
+    "wins": 10
+  },
+  "BUF_2020": {
+    "clutch_plays_count": 63,
+    "clutch_epa_avg": 0.24816875256417345,
+    "clutch_wpa_avg": 0.016078785688889888,
+    "clutch_success_rate": 0.5396825396825397,
+    "wins": 15
+  },
+  "BUF_2021": {
+    "clutch_plays_count": 74,
+    "clutch_epa_avg": 0.1678625099564436,
+    "clutch_wpa_avg": 0.00729478709172712,
+    "clutch_success_rate": 0.47297297297297297,
+    "wins": 12
+  },
+  "BUF_2023": {
+    "clutch_plays_count": 106,
+    "clutch_epa_avg": 0.03813706807569949,
+    "clutch_wpa_avg": 0.009246022298727459,
+    "clutch_success_rate": 0.42452830188679247,
+    "wins": 12
+  },
+  "CAR_2019": {
+    "clutch_plays_count": 68,
+    "clutch_epa_avg": -0.0731988468715216,
+    "clutch_wpa_avg": -0.005095713516414761,
+    "clutch_success_rate": 0.4411764705882353,
+    "wins": 5
+  },
+  "CAR_2020": {
+    "clutch_plays_count": 89,
+    "clutch_epa_avg": -0.1966787744254498,
+    "clutch_wpa_avg": -0.015782906086572724,
+    "clutch_success_rate": 0.48314606741573035,
+    "wins": 5
+  },
+  "CAR_2021": {
+    "clutch_plays_count": 55,
+    "clutch_epa_avg": -0.12959090796410164,
+    "clutch_wpa_avg": -0.008116258221822293,
+    "clutch_success_rate": 0.4,
+    "wins": 5
+  },
+  "CAR_2023": {
+    "clutch_plays_count": 61,
+    "clutch_epa_avg": -0.016026990857904985,
+    "clutch_wpa_avg": 0.009871742720486701,
+    "clutch_success_rate": 0.39344262295081966,
+    "wins": 2
+  },
+  "CHI_2019": {
+    "clutch_plays_count": 107,
+    "clutch_epa_avg": -0.12439716165373221,
+    "clutch_wpa_avg": -0.0017656629957328322,
+    "clutch_success_rate": 0.3925233644859813,
+    "wins": 8
+  },
+  "CHI_2020": {
+    "clutch_plays_count": 86,
+    "clutch_epa_avg": -0.19966422051691043,
+    "clutch_wpa_avg": -0.010049974532128593,
+    "clutch_success_rate": 0.37209302325581395,
+    "wins": 8
+  },
+  "CHI_2021": {
+    "clutch_plays_count": 65,
+    "clutch_epa_avg": 0.29799504406898103,
+    "clutch_wpa_avg": 0.021137247349207224,
+    "clutch_success_rate": 0.4461538461538462,
+    "wins": 6
+  },
+  "CHI_2023": {
+    "clutch_plays_count": 71,
+    "clutch_epa_avg": -0.45564724890284997,
+    "clutch_wpa_avg": -0.016046114928332907,
+    "clutch_success_rate": 0.323943661971831,
+    "wins": 7
+  },
+  "CIN_2019": {
+    "clutch_plays_count": 42,
+    "clutch_epa_avg": -0.01354956101868056,
+    "clutch_wpa_avg": -0.0008253514757768256,
+    "clutch_success_rate": 0.5,
+    "wins": 2
+  },
+  "CIN_2020": {
+    "clutch_plays_count": 85,
+    "clutch_epa_avg": -0.005790723916840004,
+    "clutch_wpa_avg": -0.0025513261523321335,
+    "clutch_success_rate": 0.5764705882352941,
+    "wins": 4
+  },
+  "CIN_2021": {
+    "clutch_plays_count": 91,
+    "clutch_epa_avg": 0.038016191034484295,
+    "clutch_wpa_avg": 0.008553378081988286,
+    "clutch_success_rate": 0.43956043956043955,
+    "wins": 13
+  },
+  "CIN_2023": {
+    "clutch_plays_count": 59,
+    "clutch_epa_avg": 0.15577354748766653,
+    "clutch_wpa_avg": 0.006734144736627547,
+    "clutch_success_rate": 0.4576271186440678,
+    "wins": 9
+  },
+  "CLE_2019": {
+    "clutch_plays_count": 46,
+    "clutch_epa_avg": -0.028489726011910885,
+    "clutch_wpa_avg": -0.0014516897499561362,
+    "clutch_success_rate": 0.391304347826087,
+    "wins": 6
+  },
+  "CLE_2020": {
+    "clutch_plays_count": 70,
+    "clutch_epa_avg": 0.30599899126497654,
+    "clutch_wpa_avg": 0.020127352289802922,
+    "clutch_success_rate": 0.5428571428571428,
+    "wins": 12
+  },
+  "CLE_2021": {
+    "clutch_plays_count": 82,
+    "clutch_epa_avg": -0.17006292644753898,
+    "clutch_wpa_avg": -0.013658393001708376,
+    "clutch_success_rate": 0.32926829268292684,
+    "wins": 8
+  },
+  "CLE_2023": {
+    "clutch_plays_count": 108,
+    "clutch_epa_avg": 0.005027364797727703,
+    "clutch_wpa_avg": 0.008555026828414844,
+    "clutch_success_rate": 0.4722222222222222,
+    "wins": 11
+  },
+  "DAL_2019": {
+    "clutch_plays_count": 65,
+    "clutch_epa_avg": -0.048471668086353205,
+    "clutch_wpa_avg": -0.013937814533710485,
+    "clutch_success_rate": 0.49230769230769234,
+    "wins": 8
+  },
+  "DAL_2020": {
+    "clutch_plays_count": 95,
+    "clutch_epa_avg": 0.0714663368431602,
+    "clutch_wpa_avg": 0.0033143495373539607,
+    "clutch_success_rate": 0.4631578947368421,
+    "wins": 6
+  },
+  "DAL_2021": {
+    "clutch_plays_count": 101,
+    "clutch_epa_avg": 0.1417537562015965,
+    "clutch_wpa_avg": 0.011245794353250517,
+    "clutch_success_rate": 0.504950495049505,
+    "wins": 12
+  },
+  "DAL_2023": {
+    "clutch_plays_count": 57,
+    "clutch_epa_avg": 0.061601400784363006,
+    "clutch_wpa_avg": 0.004043882091840152,
+    "clutch_success_rate": 0.45614035087719296,
+    "wins": 12
+  },
+  "DEN_2019": {
+    "clutch_plays_count": 76,
+    "clutch_epa_avg": 0.02694569348991608,
+    "clutch_wpa_avg": 0.003620112633430618,
+    "clutch_success_rate": 0.40789473684210525,
+    "wins": 7
+  },
+  "DEN_2020": {
+    "clutch_plays_count": 93,
+    "clutch_epa_avg": 0.043718462549627884,
+    "clutch_wpa_avg": -0.0010884986840085037,
+    "clutch_success_rate": 0.3763440860215054,
+    "wins": 5
+  },
+  "DEN_2021": {
+    "clutch_plays_count": 35,
+    "clutch_epa_avg": -0.3356584150680754,
+    "clutch_wpa_avg": -0.016412031224795752,
+    "clutch_success_rate": 0.34285714285714286,
+    "wins": 7
+  },
+  "DEN_2023": {
+    "clutch_plays_count": 84,
+    "clutch_epa_avg": 0.15562056105491578,
+    "clutch_wpa_avg": 0.012033090371306943,
+    "clutch_success_rate": 0.40476190476190477,
+    "wins": 8
+  },
+  "DET_2019": {
+    "clutch_plays_count": 110,
+    "clutch_epa_avg": -0.2253983609038162,
+    "clutch_wpa_avg": -0.013036740881543262,
+    "clutch_success_rate": 0.3181818181818182,
+    "wins": 3
+  },
+  "DET_2020": {
+    "clutch_plays_count": 63,
+    "clutch_epa_avg": 0.21364222348272893,
+    "clutch_wpa_avg": 0.02478571510158391,
+    "clutch_success_rate": 0.5238095238095238,
+    "wins": 5
+  },
+  "DET_2021": {
+    "clutch_plays_count": 78,
+    "clutch_epa_avg": -0.03739116908640183,
+    "clutch_wpa_avg": 0.000918040243096866,
+    "clutch_success_rate": 0.41025641025641024,
+    "wins": 3
+  },
+  "DET_2023": {
+    "clutch_plays_count": 80,
+    "clutch_epa_avg": 0.03175315637274031,
+    "clutch_wpa_avg": 0.012881618276203164,
+    "clutch_success_rate": 0.45,
+    "wins": 14
+  },
+  "GB_2019": {
+    "clutch_plays_count": 85,
+    "clutch_epa_avg": -0.012060047992800887,
+    "clutch_wpa_avg": 0.01222716493203359,
+    "clutch_success_rate": 0.3411764705882353,
+    "wins": 14
+  },
+  "GB_2020": {
+    "clutch_plays_count": 63,
+    "clutch_epa_avg": 0.18750365819696269,
+    "clutch_wpa_avg": 0.0013617001691560713,
+    "clutch_success_rate": 0.5079365079365079,
+    "wins": 14
+  },
+  "GB_2021": {
+    "clutch_plays_count": 67,
+    "clutch_epa_avg": -0.1483940652561671,
+    "clutch_wpa_avg": -0.0011986126801006537,
+    "clutch_success_rate": 0.43283582089552236,
+    "wins": 13
+  },
+  "GB_2023": {
+    "clutch_plays_count": 96,
+    "clutch_epa_avg": 0.07557152973899695,
+    "clutch_wpa_avg": -0.0005676305930440592,
+    "clutch_success_rate": 0.4479166666666667,
+    "wins": 10
+  },
+  "HOU_2019": {
+    "clutch_plays_count": 86,
+    "clutch_epa_avg": -0.08376259253721761,
+    "clutch_wpa_avg": 0.0020924641502502155,
+    "clutch_success_rate": 0.3372093023255814,
+    "wins": 11
+  },
+  "HOU_2020": {
+    "clutch_plays_count": 76,
+    "clutch_epa_avg": -0.07994809119553847,
+    "clutch_wpa_avg": -0.003924318838553589,
+    "clutch_success_rate": 0.4473684210526316,
+    "wins": 4
+  },
+  "HOU_2021": {
+    "clutch_plays_count": 33,
+    "clutch_epa_avg": 0.10243567414811999,
+    "clutch_wpa_avg": 0.0007540673336495907,
+    "clutch_success_rate": 0.42424242424242425,
+    "wins": 4
+  },
+  "HOU_2023": {
+    "clutch_plays_count": 67,
+    "clutch_epa_avg": 0.09384125057807433,
+    "clutch_wpa_avg": 0.01048130102094209,
+    "clutch_success_rate": 0.40298507462686567,
+    "wins": 11
+  },
+  "IND_2019": {
+    "clutch_plays_count": 99,
+    "clutch_epa_avg": -0.16136291739906183,
+    "clutch_wpa_avg": -0.007292475856946675,
+    "clutch_success_rate": 0.36363636363636365,
+    "wins": 7
+  },
+  "IND_2020": {
+    "clutch_plays_count": 74,
+    "clutch_epa_avg": -0.052495982767648164,
+    "clutch_wpa_avg": -0.007819015804829218,
+    "clutch_success_rate": 0.33783783783783783,
+    "wins": 11
+  },
+  "IND_2021": {
+    "clutch_plays_count": 54,
+    "clutch_epa_avg": 0.12092871070278288,
+    "clutch_wpa_avg": -0.0006192231379425106,
+    "clutch_success_rate": 0.4444444444444444,
+    "wins": 9
+  },
+  "IND_2023": {
+    "clutch_plays_count": 98,
+    "clutch_epa_avg": -0.09199161107021597,
+    "clutch_wpa_avg": -0.010485669239234122,
+    "clutch_success_rate": 0.29591836734693877,
+    "wins": 9
+  },
+  "JAX_2019": {
+    "clutch_plays_count": 63,
+    "clutch_epa_avg": 0.20311665981741076,
+    "clutch_wpa_avg": 0.01473633734159128,
+    "clutch_success_rate": 0.5555555555555556,
+    "wins": 6
+  },
+  "JAX_2020": {
+    "clutch_plays_count": 61,
+    "clutch_epa_avg": 0.046970664725127766,
+    "clutch_wpa_avg": -0.006931645868223946,
+    "clutch_success_rate": 0.47540983606557374,
+    "wins": 1
+  },
+  "JAX_2021": {
+    "clutch_plays_count": 48,
+    "clutch_epa_avg": -0.1562184703240443,
+    "clutch_wpa_avg": -0.0017893823484579653,
+    "clutch_success_rate": 0.3333333333333333,
+    "wins": 3
+  },
+  "JAX_2023": {
+    "clutch_plays_count": 50,
+    "clutch_epa_avg": -0.02931806156259602,
+    "clutch_wpa_avg": 0.006187317342306226,
+    "clutch_success_rate": 0.34,
+    "wins": 9
+  },
+  "KC_2019": {
+    "clutch_plays_count": 72,
+    "clutch_epa_avg": 0.24072851582911584,
+    "clutch_wpa_avg": 0.016381463928923024,
+    "clutch_success_rate": 0.4861111111111111,
+    "wins": 15
+  },
+  "KC_2020": {
+    "clutch_plays_count": 92,
+    "clutch_epa_avg": 0.2276530852944944,
+    "clutch_wpa_avg": 0.018716197850628065,
+    "clutch_success_rate": 0.5108695652173914,
+    "wins": 16
+  },
+  "KC_2021": {
+    "clutch_plays_count": 84,
+    "clutch_epa_avg": 0.19663710331521653,
+    "clutch_wpa_avg": 0.00916993897974553,
+    "clutch_success_rate": 0.44047619047619047,
+    "wins": 14
+  },
+  "KC_2023": {
+    "clutch_plays_count": 106,
+    "clutch_epa_avg": 0.04649176695568536,
+    "clutch_wpa_avg": -0.0016913833559273415,
+    "clutch_success_rate": 0.42452830188679247,
+    "wins": 15
+  },
+  "LA_2019": {
+    "clutch_plays_count": 65,
+    "clutch_epa_avg": -0.21388762278410664,
+    "clutch_wpa_avg": -0.011513668922665036,
+    "clutch_success_rate": 0.4307692307692308,
+    "wins": 9
+  },
+  "LA_2020": {
+    "clutch_plays_count": 39,
+    "clutch_epa_avg": -0.21627239732761383,
+    "clutch_wpa_avg": -0.004248792926470428,
+    "clutch_success_rate": 0.28205128205128205,
+    "wins": 11
+  },
+  "LA_2021": {
+    "clutch_plays_count": 101,
+    "clutch_epa_avg": 0.10777321163874962,
+    "clutch_wpa_avg": 0.014608142574751131,
+    "clutch_success_rate": 0.504950495049505,
+    "wins": 16
+  },
+  "LA_2023": {
+    "clutch_plays_count": 75,
+    "clutch_epa_avg": -0.1684410049569971,
+    "clutch_wpa_avg": -0.01356596965462798,
+    "clutch_success_rate": 0.3466666666666667,
+    "wins": 10
+  },
+  "LAC_2019": {
+    "clutch_plays_count": 94,
+    "clutch_epa_avg": -0.14187531835185416,
+    "clutch_wpa_avg": -0.01826928511717179,
+    "clutch_success_rate": 0.3191489361702128,
+    "wins": 5
+  },
+  "LAC_2020": {
+    "clutch_plays_count": 95,
+    "clutch_epa_avg": -0.18317283452593497,
+    "clutch_wpa_avg": -0.004963775946984162,
+    "clutch_success_rate": 0.3684210526315789,
+    "wins": 7
+  },
+  "LAC_2021": {
+    "clutch_plays_count": 110,
+    "clutch_epa_avg": 0.18752541179349738,
+    "clutch_wpa_avg": 0.013138512991385217,
+    "clutch_success_rate": 0.43636363636363634,
+    "wins": 9
+  },
+  "LAC_2023": {
+    "clutch_plays_count": 79,
+    "clutch_epa_avg": -0.34128338490504195,
+    "clutch_wpa_avg": -0.02577171213276495,
+    "clutch_success_rate": 0.2911392405063291,
+    "wins": 5
+  },
+  "LV_2019": {
+    "clutch_plays_count": 93,
+    "clutch_epa_avg": 0.0590630505075836,
+    "clutch_wpa_avg": 0.0066491545688721326,
+    "clutch_success_rate": 0.44086021505376344,
+    "wins": 7
+  },
+  "LV_2020": {
+    "clutch_plays_count": 103,
+    "clutch_epa_avg": 0.1568086004806348,
+    "clutch_wpa_avg": 0.011209235934902645,
+    "clutch_success_rate": 0.46601941747572817,
+    "wins": 8
+  },
+  "LV_2021": {
+    "clutch_plays_count": 111,
+    "clutch_epa_avg": -5.935160294581868e-05,
+    "clutch_wpa_avg": 0.011768732089884907,
+    "clutch_success_rate": 0.44144144144144143,
+    "wins": 10
+  },
+  "LV_2023": {
+    "clutch_plays_count": 68,
+    "clutch_epa_avg": -0.2635765591988635,
+    "clutch_wpa_avg": -0.010746829537148271,
+    "clutch_success_rate": 0.35294117647058826,
+    "wins": 8
+  },
+  "MIA_2019": {
+    "clutch_plays_count": 52,
+    "clutch_epa_avg": 0.2550373669596985,
+    "clutch_wpa_avg": 0.015116052900175229,
+    "clutch_success_rate": 0.5384615384615384,
+    "wins": 5
+  },
+  "MIA_2020": {
+    "clutch_plays_count": 40,
+    "clutch_epa_avg": 0.18646916310978906,
+    "clutch_wpa_avg": 0.019489377713774056,
+    "clutch_success_rate": 0.55,
+    "wins": 10
+  },
+  "MIA_2021": {
+    "clutch_plays_count": 97,
+    "clutch_epa_avg": 0.09806867407713497,
+    "clutch_wpa_avg": 0.010315695892382253,
+    "clutch_success_rate": 0.41237113402061853,
+    "wins": 9
+  },
+  "MIA_2023": {
+    "clutch_plays_count": 65,
+    "clutch_epa_avg": 0.0359946402886161,
+    "clutch_wpa_avg": 0.004274259684754209,
+    "clutch_success_rate": 0.4307692307692308,
+    "wins": 11
+  },
+  "MIN_2019": {
+    "clutch_plays_count": 39,
+    "clutch_epa_avg": -0.2890584592547756,
+    "clutch_wpa_avg": -0.022865911736400166,
+    "clutch_success_rate": 0.20512820512820512,
+    "wins": 11
+  },
+  "MIN_2020": {
+    "clutch_plays_count": 91,
+    "clutch_epa_avg": -0.21367520306295057,
+    "clutch_wpa_avg": -0.012550496301808203,
+    "clutch_success_rate": 0.3626373626373626,
+    "wins": 7
+  },
+  "MIN_2021": {
+    "clutch_plays_count": 137,
+    "clutch_epa_avg": 0.03765484604519784,
+    "clutch_wpa_avg": 0.0028526935230152126,
+    "clutch_success_rate": 0.41605839416058393,
+    "wins": 8
+  },
+  "MIN_2023": {
+    "clutch_plays_count": 123,
+    "clutch_epa_avg": -0.22315147250735354,
+    "clutch_wpa_avg": -0.011412384824857886,
+    "clutch_success_rate": 0.35772357723577236,
+    "wins": 7
+  },
+  "NE_2019": {
+    "clutch_plays_count": 49,
+    "clutch_epa_avg": -0.3132393528166659,
+    "clutch_wpa_avg": -0.016244413602705267,
+    "clutch_success_rate": 0.32653061224489793,
+    "wins": 12
+  },
+  "NE_2020": {
+    "clutch_plays_count": 85,
+    "clutch_epa_avg": -0.00824446240781151,
+    "clutch_wpa_avg": -9.136436987604971e-05,
+    "clutch_success_rate": 0.4823529411764706,
+    "wins": 7
+  },
+  "NE_2021": {
+    "clutch_plays_count": 47,
+    "clutch_epa_avg": -0.2742677436050683,
+    "clutch_wpa_avg": -0.009434620401295802,
+    "clutch_success_rate": 0.5319148936170213,
+    "wins": 10
+  },
+  "NE_2023": {
+    "clutch_plays_count": 116,
+    "clutch_epa_avg": -0.251869945465725,
+    "clutch_wpa_avg": -0.015515583620763608,
+    "clutch_success_rate": 0.31896551724137934,
+    "wins": 4
+  },
+  "NO_2019": {
+    "clutch_plays_count": 71,
+    "clutch_epa_avg": 0.06636484421795545,
+    "clutch_wpa_avg": 0.014366146094147648,
+    "clutch_success_rate": 0.5633802816901409,
+    "wins": 13
+  },
+  "NO_2020": {
+    "clutch_plays_count": 33,
+    "clutch_epa_avg": 0.10336557196545107,
+    "clutch_wpa_avg": 0.0077246965359292295,
+    "clutch_success_rate": 0.5454545454545454,
+    "wins": 13
+  },
+  "NO_2021": {
+    "clutch_plays_count": 58,
+    "clutch_epa_avg": 0.2216518074397398,
+    "clutch_wpa_avg": 0.004874641760711345,
+    "clutch_success_rate": 0.43103448275862066,
+    "wins": 9
+  },
+  "NO_2023": {
+    "clutch_plays_count": 94,
+    "clutch_epa_avg": -0.11114834695298978,
+    "clutch_wpa_avg": -0.0067043103388191305,
+    "clutch_success_rate": 0.43617021276595747,
+    "wins": 9
+  },
+  "NYG_2019": {
+    "clutch_plays_count": 53,
+    "clutch_epa_avg": -0.2212826388872109,
+    "clutch_wpa_avg": -0.011202689517333499,
+    "clutch_success_rate": 0.3018867924528302,
+    "wins": 4
+  },
+  "NYG_2020": {
+    "clutch_plays_count": 92,
+    "clutch_epa_avg": -0.14087538216256035,
+    "clutch_wpa_avg": -0.013990274416029465,
+    "clutch_success_rate": 0.32608695652173914,
+    "wins": 6
+  },
+  "NYG_2021": {
+    "clutch_plays_count": 55,
+    "clutch_epa_avg": -0.16508738928145883,
+    "clutch_wpa_avg": -0.009379607439041144,
+    "clutch_success_rate": 0.2909090909090909,
+    "wins": 4
+  },
+  "NYG_2023": {
+    "clutch_plays_count": 81,
+    "clutch_epa_avg": -0.20542414414664997,
+    "clutch_wpa_avg": -0.008394314634793973,
+    "clutch_success_rate": 0.41975308641975306,
+    "wins": 6
+  },
+  "NYJ_2019": {
+    "clutch_plays_count": 53,
+    "clutch_epa_avg": -0.09927163379297636,
+    "clutch_wpa_avg": -0.0005295107246569597,
+    "clutch_success_rate": 0.39622641509433965,
+    "wins": 7
+  },
+  "NYJ_2020": {
+    "clutch_plays_count": 46,
+    "clutch_epa_avg": -0.39126916915626253,
+    "clutch_wpa_avg": -0.018529991983719494,
+    "clutch_success_rate": 0.2608695652173913,
+    "wins": 2
+  },
+  "NYJ_2021": {
+    "clutch_plays_count": 60,
+    "clutch_epa_avg": -0.15621721501204486,
+    "clutch_wpa_avg": -0.0002971217977503951,
+    "clutch_success_rate": 0.35,
+    "wins": 4
+  },
+  "NYJ_2023": {
+    "clutch_plays_count": 93,
+    "clutch_epa_avg": -0.1486877573217244,
+    "clutch_wpa_avg": -0.01080221414354488,
+    "clutch_success_rate": 0.41935483870967744,
+    "wins": 7
+  },
+  "PHI_2019": {
+    "clutch_plays_count": 100,
+    "clutch_epa_avg": 0.08035434331309667,
+    "clutch_wpa_avg": -0.0019400281715393276,
+    "clutch_success_rate": 0.48,
+    "wins": 9
+  },
+  "PHI_2020": {
+    "clutch_plays_count": 80,
+    "clutch_epa_avg": 0.015573648464870703,
+    "clutch_wpa_avg": -0.00235360179614337,
+    "clutch_success_rate": 0.425,
+    "wins": 4
+  },
+  "PHI_2021": {
+    "clutch_plays_count": 31,
+    "clutch_epa_avg": 0.08976977131134942,
+    "clutch_wpa_avg": -0.0005931127811631901,
+    "clutch_success_rate": 0.5483870967741935,
+    "wins": 9
+  },
+  "PHI_2023": {
+    "clutch_plays_count": 100,
+    "clutch_epa_avg": -0.07869802840708325,
+    "clutch_wpa_avg": -0.007594761610462113,
+    "clutch_success_rate": 0.34,
+    "wins": 11
+  },
+  "PIT_2019": {
+    "clutch_plays_count": 86,
+    "clutch_epa_avg": -0.22940300524520396,
+    "clutch_wpa_avg": -0.011644647521681577,
+    "clutch_success_rate": 0.27906976744186046,
+    "wins": 8
+  },
+  "PIT_2020": {
+    "clutch_plays_count": 76,
+    "clutch_epa_avg": -0.03161305431717527,
+    "clutch_wpa_avg": -0.003126981864242182,
+    "clutch_success_rate": 0.34210526315789475,
+    "wins": 12
+  },
+  "PIT_2021": {
+    "clutch_plays_count": 112,
+    "clutch_epa_avg": 0.13811342907908966,
+    "clutch_wpa_avg": 0.006006168892543869,
+    "clutch_success_rate": 0.4732142857142857,
+    "wins": 9
+  },
+  "PIT_2023": {
+    "clutch_plays_count": 85,
+    "clutch_epa_avg": -0.04505883178032209,
+    "clutch_wpa_avg": -0.0018010402427000073,
+    "clutch_success_rate": 0.32941176470588235,
+    "wins": 10
+  },
+  "SEA_2019": {
+    "clutch_plays_count": 101,
+    "clutch_epa_avg": 0.1229592489988231,
+    "clutch_wpa_avg": 0.008236592008329784,
+    "clutch_success_rate": 0.45544554455445546,
+    "wins": 12
+  },
+  "SEA_2020": {
+    "clutch_plays_count": 76,
+    "clutch_epa_avg": 0.2781430372040894,
+    "clutch_wpa_avg": 0.015474837108406051,
+    "clutch_success_rate": 0.4605263157894737,
+    "wins": 12
+  },
+  "SEA_2021": {
+    "clutch_plays_count": 61,
+    "clutch_epa_avg": -0.20004702068518737,
+    "clutch_wpa_avg": -0.013233428551367762,
+    "clutch_success_rate": 0.3770491803278688,
+    "wins": 7
+  },
+  "SEA_2023": {
+    "clutch_plays_count": 104,
+    "clutch_epa_avg": 0.1619354368476224,
+    "clutch_wpa_avg": 0.011041374751724871,
+    "clutch_success_rate": 0.4807692307692308,
+    "wins": 9
+  },
+  "SF_2019": {
+    "clutch_plays_count": 114,
+    "clutch_epa_avg": 0.03200184993376085,
+    "clutch_wpa_avg": 0.011528079757434216,
+    "clutch_success_rate": 0.5087719298245614,
+    "wins": 15
+  },
+  "SF_2020": {
+    "clutch_plays_count": 69,
+    "clutch_epa_avg": -0.2832503552052917,
+    "clutch_wpa_avg": -0.007526813686424882,
+    "clutch_success_rate": 0.42028985507246375,
+    "wins": 6
+  },
+  "SF_2021": {
+    "clutch_plays_count": 116,
+    "clutch_epa_avg": 0.025925701193703857,
+    "clutch_wpa_avg": 0.00699806921837419,
+    "clutch_success_rate": 0.43103448275862066,
+    "wins": 12
+  },
+  "SF_2023": {
+    "clutch_plays_count": 58,
+    "clutch_epa_avg": -0.0025281478444539136,
+    "clutch_wpa_avg": -0.008936653012863779,
+    "clutch_success_rate": 0.43103448275862066,
+    "wins": 14
+  },
+  "TB_2019": {
+    "clutch_plays_count": 80,
+    "clutch_epa_avg": -0.08071562718407355,
+    "clutch_wpa_avg": -0.008906364800699524,
+    "clutch_success_rate": 0.4875,
+    "wins": 7
+  },
+  "TB_2020": {
+    "clutch_plays_count": 69,
+    "clutch_epa_avg": 0.11473595556810148,
+    "clutch_wpa_avg": -0.002050189883126255,
+    "clutch_success_rate": 0.5072463768115942,
+    "wins": 15
+  },
+  "TB_2021": {
+    "clutch_plays_count": 72,
+    "clutch_epa_avg": 0.21159958404950932,
+    "clutch_wpa_avg": 0.023027416068462904,
+    "clutch_success_rate": 0.5138888888888888,
+    "wins": 14
+  },
+  "TB_2023": {
+    "clutch_plays_count": 82,
+    "clutch_epa_avg": 0.06970868307846895,
+    "clutch_wpa_avg": 0.008595164180892272,
+    "clutch_success_rate": 0.43902439024390244,
+    "wins": 10
+  },
+  "TEN_2019": {
+    "clutch_plays_count": 57,
+    "clutch_epa_avg": -0.21118578985418898,
+    "clutch_wpa_avg": -0.012529127885752542,
+    "clutch_success_rate": 0.2982456140350877,
+    "wins": 11
+  },
+  "TEN_2020": {
+    "clutch_plays_count": 91,
+    "clutch_epa_avg": 0.20954078653305086,
+    "clutch_wpa_avg": 0.017002227822870752,
+    "clutch_success_rate": 0.5934065934065934,
+    "wins": 11
+  },
+  "TEN_2021": {
+    "clutch_plays_count": 99,
+    "clutch_epa_avg": 0.02694609118889087,
+    "clutch_wpa_avg": 0.006128202839065223,
+    "clutch_success_rate": 0.494949494949495,
+    "wins": 12
+  },
+  "TEN_2023": {
+    "clutch_plays_count": 103,
+    "clutch_epa_avg": -0.009921529892311326,
+    "clutch_wpa_avg": -0.005882432293834032,
+    "clutch_success_rate": 0.39805825242718446,
+    "wins": 6
+  },
+  "WAS_2019": {
+    "clutch_plays_count": 45,
+    "clutch_epa_avg": 0.0020396899946032903,
+    "clutch_wpa_avg": 0.00811490890119564,
+    "clutch_success_rate": 0.6444444444444445,
+    "wins": 3
+  },
+  "WAS_2020": {
+    "clutch_plays_count": 104,
+    "clutch_epa_avg": -0.15265112016402077,
+    "clutch_wpa_avg": -0.008928115265160944,
+    "clutch_success_rate": 0.3942307692307692,
+    "wins": 7
+  },
+  "WAS_2021": {
+    "clutch_plays_count": 106,
+    "clutch_epa_avg": 0.03268763211140772,
+    "clutch_wpa_avg": 0.007676044820799763,
+    "clutch_success_rate": 0.4528301886792453,
+    "wins": 7
+  },
+  "WAS_2023": {
+    "clutch_plays_count": 97,
+    "clutch_epa_avg": -0.19054996053855672,
+    "clutch_wpa_avg": -0.006142321077233725,
+    "clutch_success_rate": 0.35051546391752575,
+    "wins": 4
+  }
+}
