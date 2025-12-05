@@ -43,14 +43,6 @@ make predictions on new plays.
 # ------------------------------------------------------------
 st.sidebar.header("Data Source")
 
-st.sidebar.markdown(
-    """
-Update the `GITHUB_BASE_URL` and `FILE_MAP` below with your own GitHub repo paths.
-
-They should point to **raw** URLs for the zipped CSV files.
-"""
-)
-
 GITHUB_BASE_URL = "https://github.com/Madison-LH/CSE_482_Final_Project/raw/refs/heads/main/data/"
 
 # Map season -> zip filename on GitHub
