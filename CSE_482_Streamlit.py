@@ -53,7 +53,6 @@ FILE_MAP = {
     "2023": "play_by_play_2023.zip",
 }
 
-
 # ------------------------------------------------------------
 # DATA LOADING
 # ------------------------------------------------------------
@@ -114,18 +113,6 @@ if load_button:
 
 df = st.session_state["data"]
 
-# Optional: keep only columns likely to be useful
-cols_to_keep = list(set(
-    feature_candidates
-    + suggested_classification_targets
-    + suggested_regression_targets
-    + ["season"]
-))
-existing = [c for c in cols_to_keep if c in df.columns]
-df = df[existing].copy()
-st.session_state["data"] = df  # update with slimmed-down version
-
-
 if df.empty:
     st.info("No data loaded yet. Choose seasons and click **Load Data** in the sidebar.")
     st.stop()
@@ -157,7 +144,6 @@ default_feature_candidates = [
 ]
 
 default_features = [c for c in default_feature_candidates if c in df.columns]
-
 
 suggested_classification_targets = [
     c
@@ -296,8 +282,7 @@ if train_button:
     # -------------------------------
     # Limit rows to avoid memory issues
     # -------------------------------
-    max_train_rows = 50_000  # you can lower this to 20_000 if needed
-
+    max_train_rows = 20_000  
     if len(data_sub) > max_train_rows:
         st.warning(
             f"Dataset has {len(data_sub):,} rows after cleaning; "
@@ -307,7 +292,6 @@ if train_button:
 
     X = data_sub[feature_cols].values
     y = data_sub[target_col].values
-
 
     X_train, X_test, y_train, y_test = train_test_split(
         X,
@@ -320,14 +304,14 @@ if train_button:
     if task_type == "Classification":
         model = RandomForestClassifier(
             n_estimators=n_estimators,
-            max_depth=None if max_depth == 0 else max_depth,
+            max_depth=max_depth,
             random_state=random_state,
             n_jobs=-1,
         )
     else:
         model = RandomForestRegressor(
             n_estimators=n_estimators,
-            max_depth=None if max_depth == 0 else max_depth,
+            max_depth=max_depth,
             random_state=random_state,
             n_jobs=-1,
         )
@@ -379,7 +363,6 @@ if train_button:
             }
         ).sort_values("importance", ascending=False)
         st.dataframe(fi_df, use_container_width=True)
-
 
 # ------------------------------------------------------------
 # PREDICTION INTERFACE
@@ -492,3 +475,4 @@ else:
             file_name="nfl_predictions.csv",
             mime="text/csv",
         )
+
