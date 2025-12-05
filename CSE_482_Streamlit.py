@@ -103,21 +103,21 @@ load_button = st.sidebar.button("Load Data")
 
 if "data" not in st.session_state:
     st.session_state["data"] = pd.DataFrame()
+    st.session_state["season"] = None
 
-if load_button:
-    if not selected_seasons:
-        st.warning("Please select at least one season.")
-    else:
-        with st.spinner("Loading data from GitHub..."):
-            st.session_state["data"] = load_multiple_seasons(selected_seasons)
+# Load data for the single selected season
+if load_button or st.session_state["data"].empty or st.session_state.get("season") != selected_season:
+    with st.spinner(f"Loading season {selected_season} from GitHub..."):
+        st.session_state["data"] = load_season_from_github(selected_season)
+        st.session_state["season"] = selected_season
 
 df = st.session_state["data"]
 
 if df.empty:
-    st.info("No data loaded yet. Choose seasons and click **Load Data** in the sidebar.")
+    st.info("No data loaded yet. Choose a season and click **Load Data** in the sidebar.")
     st.stop()
 
-st.success(f"Loaded {len(df):,} plays from {len(selected_seasons)} season(s).")
+st.success(f"Loaded {len(df):,} plays from season {int(selected_season)}.")
 
 with st.expander("Preview dataset"):
     st.dataframe(df.head(20), use_container_width=True)
