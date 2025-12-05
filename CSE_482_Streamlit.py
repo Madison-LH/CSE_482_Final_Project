@@ -252,15 +252,15 @@ with col_right:
     n_estimators = st.slider(
         "Random Forest: number of trees",
         min_value=50,
-        max_value=500,
-        value=200,
+        max_value=300,
+        value=100,
         step=50,
     )
     max_depth = st.slider(
-        "Random Forest: max depth (0 = unlimited)",
-        min_value=0,
-        max_value=30,
-        value=0,
+        "Random Forest: max depth",
+        min_value=3,
+        max_value=20,
+        value=10,
         step=1,
     )
 
@@ -281,8 +281,21 @@ if train_button:
         )
         st.stop()
 
+    # -------------------------------
+    # Limit rows to avoid memory issues
+    # -------------------------------
+    max_train_rows = 50_000  # you can lower this to 20_000 if needed
+
+    if len(data_sub) > max_train_rows:
+        st.warning(
+            f"Dataset has {len(data_sub):,} rows after cleaning; "
+            f"randomly sampling {max_train_rows:,} rows for training to avoid crashes."
+        )
+        data_sub = data_sub.sample(max_train_rows, random_state=random_state)
+
     X = data_sub[feature_cols].values
     y = data_sub[target_col].values
+
 
     X_train, X_test, y_train, y_test = train_test_split(
         X,
