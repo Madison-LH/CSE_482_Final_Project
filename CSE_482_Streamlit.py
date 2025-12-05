@@ -114,6 +114,18 @@ if load_button:
 
 df = st.session_state["data"]
 
+# Optional: keep only columns likely to be useful
+cols_to_keep = list(set(
+    feature_candidates
+    + suggested_classification_targets
+    + suggested_regression_targets
+    + ["season"]
+))
+existing = [c for c in cols_to_keep if c in df.columns]
+df = df[existing].copy()
+st.session_state["data"] = df  # update with slimmed-down version
+
+
 if df.empty:
     st.info("No data loaded yet. Choose seasons and click **Load Data** in the sidebar.")
     st.stop()
