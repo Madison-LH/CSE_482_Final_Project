@@ -90,13 +90,13 @@ def load_multiple_seasons(seasons):
 # ------------------------------------------------------------
 # SIDEBAR: SEASON SELECTION + TASK SETUP
 # ------------------------------------------------------------
-st.sidebar.subheader("Step 1 • Choose Seasons")
+st.sidebar.subheader("Step 1 • Choose Season")
 
-selected_seasons = st.sidebar.multiselect(
-    "Seasons to include",
+selected_season = st.sidebar.selectbox(
+    "Season to use",
     options=list(FILE_MAP.keys()),
-    default=list(FILE_MAP.keys()),
-    help="These seasons will be concatenated into a single training dataset.",
+    index=list(FILE_MAP.keys()).index("2023") if "2023" in FILE_MAP else 0,
+    help="Only one season is loaded at a time to keep the app lightweight.",
 )
 
 load_button = st.sidebar.button("Load Data")
