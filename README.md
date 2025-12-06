@@ -1,3 +1,5 @@
+## Link to deployed streamlit app for predictions: https://cse482finalproject.streamlit.app/
+
 # Clutch Under Pressure: NFL Team Performance in High-Leverage Situations
 This project analyzes how NFL teams perform during the highest-pressure moments of a game, known as clutch situations. Clutch plays are defined as offensive snaps occurring in the 4th quarter, within the final five minutes, and when the score margin is eight points or fewer. Using multiple seasons of NFL play-by-play data from the nflverse project, this analysis evaluates team performance using advanced metrics such as Expected Points Added (EPA) and Win Probability Added (WPA). The goal is to understand which teams rise under pressure, how clutch performance compares to overall offensive efficiency, and how machine learning can be used to predict clutch strength. The entire workflow is implemented in Python using Visual Studio Code with Jupyter Notebook.
 ## Features
